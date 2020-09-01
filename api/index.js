@@ -22,7 +22,7 @@ http
 
     // allow to anyone access api
     res.writeHead(200, {
-      'Acess-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Origin': '*',
     });
 
     // all resources
