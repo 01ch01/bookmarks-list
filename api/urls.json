@@ -1,16 +1,16 @@
 {
   "urls": [
     {
-      "name": "GitHub",
-      "url": "https://www.github.com"
-    },
-    {
       "name": "Stack Overflow",
       "url": "https://www.stackoverflow.com"
     },
     {
       "name": "W3Schools",
       "url": "https://www.w3schools.com"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://www.github.com"
     }
   ]
 }
